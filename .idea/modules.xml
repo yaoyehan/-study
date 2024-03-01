@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2013/2013.iml" filepath="$PROJECT_DIR$/2013/2013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2014/2014.iml" filepath="$PROJECT_DIR$/2014/2014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2015/2015.iml" filepath="$PROJECT_DIR$/2015/2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2016/2016.iml" filepath="$PROJECT_DIR$/2016/2016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2017/2017.iml" filepath="$PROJECT_DIR$/2017/2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/else/else.iml" filepath="$PROJECT_DIR$/else/else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />
+    </modules>
+  </component>
+</project>
